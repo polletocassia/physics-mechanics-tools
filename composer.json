@@ -1,0 +1,15 @@
+{
+    "name": "cassia.polleto/physics-mechanics-tools",
+    "description": "physics-mechanics-tools",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cássia Polleto",
+            "email": "cassiapolleto@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start": "php -S localhost:8000 -t public"
+    },
+    "require": {}
+}
