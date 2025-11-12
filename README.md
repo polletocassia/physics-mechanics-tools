@@ -36,7 +36,7 @@ physics-mechanics-tools
 ## 🚀 How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/cassiapolleto/physics-mechanics-tools.git
+git clone https://github.com/polletocassia/physics-mechanics-tools.git
 cd physics-mechanics-tools
 ```       
 2. Install dependencies:
